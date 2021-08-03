@@ -1,6 +1,6 @@
-function init(){
-  console.log("Los geht's!");
+function init() {
+	console.log("Los geht's!");
 }
-function click(){
-  console.log("click!");
+function newsletter() {
+	console.log('Abonnieret!');
 }
