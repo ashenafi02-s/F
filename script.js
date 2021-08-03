@@ -9,3 +9,7 @@ function feature() {
 	console.log('Cool Feature!');
 	console.log('Noch cooler!');
 }
+
+function newFeauture() {
+	console.log('New!');
+}
