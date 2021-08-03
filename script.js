@@ -11,5 +11,5 @@ function feature() {
 }
 
 function newFeauture() {
-	console.log('New!');
+	console.log('New!');	
 }
