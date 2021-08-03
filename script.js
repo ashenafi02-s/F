@@ -4,3 +4,7 @@ function init() {
 function newsletter() {
 	console.log('Abonnieret!');
 }
+
+function feature() {
+	console.log('Cool Feature!');
+}
