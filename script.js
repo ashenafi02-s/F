@@ -7,4 +7,5 @@ function newsletter() {
 
 function feature() {
 	console.log('Cool Feature!');
+	console.log("Noch cooler!")
 }
